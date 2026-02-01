@@ -7,3 +7,4 @@ seaborn
 jupyter
 fastapi
 uvicorn
+python-multipart
